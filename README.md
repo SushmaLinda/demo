@@ -1,4 +1,3 @@
 # demo
-This is a demo project
-This is a first Git project.
+This is a demo project And a first Git project.
 Author-Sushma Linda
